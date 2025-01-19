@@ -1,5 +1,5 @@
 1. Build Environment
-conda create --name dino --file dino_requirements.txt
+conda env create -f dino.yml
 2. evaluation
 ckp-300 is pre-trained with strong augmentation; 
 ckp-325 is pre-trained with weak augmentation; 
