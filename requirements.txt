@@ -1,0 +1,15 @@
+
+torch==2.0.0
+torchvision==0.15.1
+xformers==0.0.19
+pytz==2024.2
+numpy==1.23.5
+scipy==1.11.4
+scikit-learn==1.5.2
+pillow==10.3.0
+opencv-python==4.8.0.76
+pandas==2.2.3
+tqdm==4.66.2
+requests==2.32.3
+typing-extensions==4.12.2
+pip==24.2
