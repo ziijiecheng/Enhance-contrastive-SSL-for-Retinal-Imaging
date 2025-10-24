@@ -11,13 +11,16 @@ Read the paper here: [https://openreview.net/forum?id=63igmyYaDc]
 ### 🛠️ Installation
 Follow these steps to set up the required Conda environment:
 
-1. Create the environment (Name: dino, Python 3.10)
+1. Create the environment
+
 conda create --name dino python=3.10
 
 2. Activate the environment
+
 conda activate dino
 
-3. Install dependencies from requirements.txt
+3. Install dependencies
+
 pip install -r requirements.txt
 
 ### 💾 Pre-trained Checkpoints
@@ -37,6 +40,7 @@ The following pre-trained checkpoints are provided, each corresponding to a diff
 This work uses the APTOS2019 Blindness Detection dataset.
 
 Download the dataset from the official Kaggle competition page:
+
 https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
 Unzip and organize the dataset into a directory.
