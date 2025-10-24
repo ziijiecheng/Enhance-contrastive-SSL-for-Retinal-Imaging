@@ -1,5 +1,5 @@
 Self-Supervised Learning for Medical Image Analysis (MIDL 2025)
-This is the official repository for the MIDL 2025 paper: [Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales].
+This is the official repository for the MIDL 2025 paper: **Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales**.
 
 This work introduces an adjusted augmentation strategy for contrastive learning in retinal imaging, improving downstream classification performance.
 
