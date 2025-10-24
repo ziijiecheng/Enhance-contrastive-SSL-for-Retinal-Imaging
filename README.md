@@ -11,15 +11,15 @@ Read the paper here: [https://openreview.net/forum?id=63igmyYaDc]
 ### 🛠️ Installation
 Follow these steps to set up the required Conda environment:
 
-1. Create the environment
+**1. Create the environment**
 
 conda create --name dino python=3.10
 
-2. Activate the environment
+**2. Activate the environment**
 
 conda activate dino
 
-3. Install dependencies
+**3. Install dependencies**
 
 pip install -r requirements.txt
 
@@ -35,7 +35,7 @@ The following pre-trained checkpoints are provided, each corresponding to a diff
 
 ### ▶️ Usage: Fine-tuning & Evaluation
 
-1. Dataset Preparation
+**1. Dataset Preparation**
 
 This work uses the APTOS2019 Blindness Detection dataset.
 
@@ -47,7 +47,7 @@ Unzip and organize the dataset into a directory.
 
 You will need to provide the path to this directory in the --data_path argument.
 
-2. Run Fine-tuning
+**2. Run Fine-tuning**
 
 The example below demonstrates a 50-epoch fine-tuning run on the APTOS2019 dataset using the strong augmentation checkpoint (ckp-300.pth).
 
