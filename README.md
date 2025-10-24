@@ -66,11 +66,10 @@ torchrun --nproc_per_node=1 --master_port=48793 eval_finetune.py \
 
 If you find this work useful in your research, please cite our paper:
 
+```bibtex
 @INPROCEEDINGS{Cheng2025-eo,
-  title     = "Enhancing Contrastive Learning for Retinal Imaging via Adjusted
-               Augmentation Scales",
-  author    = "Cheng, Zijie and Li, Boxuan and Altmann, Andre and Keane, Pearse
-               and Zhou, Yukun",
+  title     = "Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales",
+  author    = "Cheng, Zijie and Li, Boxuan and Altmann, Andre and Keane, Pearse and Zhou, Yukun",
   booktitle = "Medical Imaging with Deep Learning",
-  year      =  2025
+  year      = 2025
 }
