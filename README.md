@@ -3,6 +3,9 @@ This is the official repository for the MIDL 2025 paper: **Enhancing Contrastive
 
 This work introduces an adjusted augmentation strategy for contrastive learning in retinal imaging, improving downstream classification performance.
 
+If you have any questions or encounter any issues, please feel free to contact us: **zijc531@gmail.com**
+![Overview Diagram](https://github.com/user-attachments/assets/10c9062f-b2e1-41d7-9995-75e3b692b369)
+
 ### 🔥 News
 Our paper：Enhancing Contrastive Learning for Retinal Imaging via Adjusted Augmentation Scales, has been published to the Medical Imaging with Deep Learning (MIDL) 2025!
 
